@@ -1,16 +1,19 @@
-## Hi there 👋
 
-<!--
-**HarshMishra26/HarshMishra26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="left">Hi 👋, I'm Harsh Mishra.</h1>
+<hr>
 
-Here are some ideas to get you started:
+- 📍 Current Location : **Hyderabad, Telangana, India**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning : **Java Fullstack Development**
+
+- 📝 Education Qualifications : **Completed Engeneering in B.Tech**
+
+- 💬 Ask me about : **Java, HTML, CSS, Bootstrap, JavaScript.**
+
+- 📫 How to reach me : **mishraharsh.262001@gmail.com**
+
+- ⚡ Fun fact : **Enjoy and Debug every Error of yourlife..**
+
+<hr>
+
+
